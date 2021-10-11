@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a61dea45-93c5-4fde-b04f-dfc47225cf11" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/with_numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/with_numpy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633555879094</updated>
       <workItem from="1633555881640" duration="165000" />
+      <workItem from="1633935860072" duration="630000" />
     </task>
     <servers />
   </component>

@@ -2,17 +2,7 @@ from in_python import *
 from with_numpy import solve_equation
 import numpy
 
-"""
-    
-    x + z = 6
-    -3y + z = 7
-    2x + y + 3z = 15
-    
-    solution: x = 1, y = -1, z = 2
-    generated system with:
-        https://www.wolframalpha.com/
 
-"""
 if __name__ == '__main__':
     print("""
         IN PURE PYTHON
