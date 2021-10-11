@@ -1,6 +1,6 @@
 from in_python import *
 from with_numpy import solve_equation
-import numpy as np
+import numpy
 
 """
     
